@@ -9,3 +9,4 @@ The project includes:
 - Basic styling with CSS variables.
 - Simple layout designed for beginners.
 - Responsive design that works on mobile screens.
+# abu-najeeb
